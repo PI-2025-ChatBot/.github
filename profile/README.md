@@ -21,7 +21,7 @@ Este sistema visa otimizar o atendimento nos restaurantes das escolas Poliedro, 
 
 Buscamos aplicar os conhecimentos adquiridos em sala de aula para criar soluções práticas e inovadoras, explorando tecnologias como:
 
-*   Desenvolvimento Back-end (Flutter, Dart, Python/Flask, SQL)
+*   Desenvolvimento Back-end (Python/Flask, SQL)
 *   Banco de Dados (Supabase)
 *   Metodologias Ágeis (Scrum)
 
