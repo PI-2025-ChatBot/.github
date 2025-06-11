@@ -1,4 +1,4 @@
-# Bem-vindo à Organização IMT-PII-Ciência-Da-Computação-3-Semestre!
+# Bem-vindo à Organização PI-2025-ChatBot!
 
 Esta organização abriga o projeto desenvolvido pelos alunos do 3º semestre do curso de Ciências da Computação do **Instituto Mauá de Tecnologia (IMT)**, como parte do Projeto Interdisciplinar Integrador (PII).
 
