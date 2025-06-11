@@ -13,7 +13,7 @@ Esta organização abriga o projeto desenvolvido pelos alunos do 3º semestre do
 
 ## Projeto em Destaque: Chatbot Poliedro
 
-Nosso projeto é o **[Chatbot-Poliedro](https://github.com/PI-2025-ChatBot/backend-chatbot))**.
+Nosso projeto é o **[Chatbot-Poliedro](https://github.com/PI-2025-ChatBot/backend-chatbot)**.
 
 Este sistema visa otimizar o atendimento nos restaurantes das escolas Poliedro, utilizando um chatbot para receber pedidos e um sistema KDS (Kitchen Display System) integrado para a cozinha. O objetivo é reduzir filas e melhorar a comunicação e a experiência geral.
 
